@@ -65,4 +65,3 @@ Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/Ekaterina416b/lab6 
  * [new tag]         v1.0.2 -> v1.0.2 
 ```
-<img width="904" alt="Снимок экрана 2025-05-20 в 17 09 03" src="https://github.com/user-attachments/assets/2513713d-5558-42af-91d4-e46f5fa14758" />
